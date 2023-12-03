@@ -1,2 +1,2 @@
 # CipherDecoder
-Cipher decoder utilizing Diffie Helman protocol.
+Cipher decoder utilizing Diffie Helman protocol. *In Progress*
